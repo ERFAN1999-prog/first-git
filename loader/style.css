@@ -36,7 +36,7 @@ li {
   transform: translate(-50%, -50%);
   border: 10px solid #efefef;
   border-radius: 50%;
-  border-top: 10px solid red;
+  border-top: 10px solid blue;
   animation: loader 2s linear infinite;
 }
 @keyframes loader {
